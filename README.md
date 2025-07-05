@@ -1,4 +1,9 @@
-# Quantikz Tutorial - A Quantum Circuit Typesetting Tool for LaTeX
+
+
+# Quantikz and Queras - AWS - Bell State Experiment
+
+
+## Quantikz Tutorial - A Quantum Circuit Typesetting Tool for LaTeX
 
 Welcome to the **Quantikz** tutorial repository, designed to help you create elegant quantum circuit diagrams with LaTeX and the `Quantikz` package. This guide offers installation instructions, usage examples, and detailed explanations of Quantikz's features.
 
